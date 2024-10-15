@@ -1,5 +1,5 @@
-import { MovieItem } from "../components/MovieItem";
-import { useMovies } from "../hooks/useMovies";
+import { MovieItem } from "../../components/MovieItem";
+import { useMovies } from "../../hooks/useMovies";
 import styles from "./Movies.module.css";
 
 export function Movies() {
