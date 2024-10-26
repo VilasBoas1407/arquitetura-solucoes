@@ -5,7 +5,10 @@ Repositório dedicado a armazenar o contéudo da pós-graduação em Arquitetura
 
 
 ## Referência
-
+#### APIS e LINKS Utéis
+ - The Movie DB : https://www.themoviedb.org/
+ - Angular Architecture - Container vs Presentational Components Common Design Pitfalls  https://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/
+ - OMBAPI - https://www.omdbapi.com/
 #### HTML, CSS & Javascript:
 
 - CSS Guidelines: https://cssguidelin.es/#architectural-principles;
